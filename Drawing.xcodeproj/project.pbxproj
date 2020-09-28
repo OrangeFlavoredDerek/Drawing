@@ -11,6 +11,7 @@
 		AD38097A2520842900899BA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3809792520842900899BA2 /* ContentView.swift */; };
 		AD38097C2520842B00899BA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD38097B2520842B00899BA2 /* Assets.xcassets */; };
 		AD38097F2520842B00899BA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD38097E2520842B00899BA2 /* Preview Assets.xcassets */; };
+		AD3809882520856200899BA2 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3809872520856200899BA2 /* DrawingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AD38097B2520842B00899BA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD38097E2520842B00899BA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD3809802520842B00899BA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD3809872520856200899BA2 /* DrawingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				AD3809772520842800899BA2 /* DrawingApp.swift */,
 				AD3809792520842900899BA2 /* ContentView.swift */,
+				AD3809872520856200899BA2 /* DrawingView.swift */,
 				AD38097B2520842B00899BA2 /* Assets.xcassets */,
 				AD3809802520842B00899BA2 /* Info.plist */,
 				AD38097D2520842B00899BA2 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD3809882520856200899BA2 /* DrawingView.swift in Sources */,
 				AD38097A2520842900899BA2 /* ContentView.swift in Sources */,
 				AD3809782520842800899BA2 /* DrawingApp.swift in Sources */,
 			);
